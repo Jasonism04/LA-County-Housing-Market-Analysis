@@ -1,4 +1,4 @@
-[README_LA_Housing_Final.md](https://github.com/user-attachments/files/31174469/README_LA_Housing_Final.md)
+
 # Los Angeles County Housing Market Analysis (2022--2025)
 
 An exploratory data analysis project examining recent home-price trends
